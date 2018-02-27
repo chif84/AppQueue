@@ -1,0 +1,9 @@
+/.vs
+/AppGetConsole/bin
+/AppGetConsole/obj
+/AppQueueConsole/obj
+/AppQueueConsole/bin
+/AppSetConsole/bin
+/AppSetConsole/obj
+/QueueLib/bin
+/QueueLib/obj
